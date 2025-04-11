@@ -1,0 +1,137 @@
+1	Бермет	_	PROPN	_	_	3	nsubj	_	_
+2	номур	_	NOUN	_	_	3	obj	_	_
+3	жазып	_	VERB	_	_	0	root	_	_
+4	чыкты	_	AUX	_	_	3	aux	_	_
+
+1	Бермет	_	_	_	_	_	_	_	_
+2	номур	_	_	_	_	_	_	_	_
+3	жазып	_	_	_	_	7	advcl	_	_
+4	чыгып	_	_	_	_	3	aux	_	_
+5	,	_	_	_	_	_	_	_	_
+6	үйгө	_	_	_	_	_	_	_	_
+7	кетти	_	_	_	_	0	root	_	_
+
+1	Бермет	_	_	_	_	_	_	_	_
+2	номур	_	_	_	_	_	_	_	_
+3	жазып	_	_	_	_	7	advcl	_	_
+4	чыккандан	_	_	_	_	3	aux	_	_
+5	кийин	_	_	_	_	3	case	_	_
+6	үйгө	_	_	_	_	_	_	_	_
+7	кетти	_	_	_	_	_	_	_	_
+
+1	жазып	_	_	_	_	0	root	_	_
+2	кала	_	AUX	_	_	1	aux	_	_
+3	алды	_	AUX	_	_	1	aux	_	_
+
+1	жазып	_	_	_	_	0	root	_	_
+2	баштай	_	_	_	_	1	aux	_	_
+3	алды	_	_	_	_	1	aux	_	_
+
+1	бат	_	_	_	_	_	_	_	_
+2	эле	_	_	_	_	_	_	_	_
+3	бышырып	_	AUX	_	_	4	advcl	_	_
+4	бере	_	VERB	_	_	0	root	_	_
+5	салды	_	AUX	_	_	4	aux	_	_
+
+1	бат	_	_	_	_	_	_	_	_
+2	эле	_	_	_	_	_	_	_	_
+3	бышырып	_	VERB	_	_	4	advcl	_	_
+4	берип	_	VERB	_	_	0	root	_	_
+5	коё	_	AUX	_	_	4	aux	_	_
+6	салды	_	AUX	_	_	4	aux	_	_
+
+1	I	_	PRON	_	_	3	nsubj	_	_
+2	will	_	AUX	_	_	3	aux	_	_
+3	write	_	VERB	_	_	0	root	_	_
+4	the	_	DET	_	_	5	det	_	_
+5	number	_	NOUN	_	_	3	obj	_	_
+
+1	Дениз	_	PROPN	_	_	3	nsubj	_	_
+2	үйде	_	NOUN	_	_	3	obl	_	_
+3	жүр	_	VERB	_	_	0	root	_	_
+
+1	Дениз	_	PROPN	_	_	2	nsubj	_	_
+2	үйде	_	NOUN	_	_	0	root	_	_
+3	жүр	_	AUX	_	_	2	cop	_	_
+
+1	Дениз	_	PROPN	_	_	2	nsubj	_	_
+2	үйдө	_	NOUN	_	_	0	root	_	_
+3	жатты	_	AUX	_	_	2	cop	_	_
+
+1	Дениз	_	PROPN	_	_	2	nsubj	_	_
+2	үйдө	_	NOUN	_	_	0	root	_	_
+3	жүрөт	_	AUX	_	_	2	aux	_	_
+
+1	жөөлөп	_	VERB	_	_	5	acl	_	_
+2	коё	_	AUX	_	_	1	aux	_	_
+3	кала	_	AUX	_	_	1	aux	_	_
+4	турган	_	AUX	_	_	1	aux	_	_
+5	учур	_	NOUN	_	_	0	root	_	_
+6-7	беле	_	_	_	_	_	_	_	_
+6	б	_	PART	_	_	5	_	_	_
+7	еле	_	AUX	_	_	5	cop	_	_
+
+1	Андыктан	_	PRON	_	_	4	nmod	_	_
+2	мен	_	PRON	_	_	4	nsubj	_	_
+3	эч	_	ADV	_	_	4	advcl	_	_
+4	барбай	_	VERB	_	_	0	root	_	_
+5	коё	_	AUX	_	_	4	aux	_	_
+6	алмак	_	AUX	_	_	4	aux	_	_
+7	эмесмин	_	_	_	_	_	_	_	_
+
+
+
+1	Андыктан	_	PRON	_	_	4	nmod	_	_
+2	ал	_	PRON	_	_	4	nsubj	_	_
+3	эч	_	ADV	_	_	4	advcl	_	_
+4	барбай	_	VERB	_	_	0	root	_	_
+5	коё	_	AUX	_	_	4	aux	_	_
+6	алмак эмес	_	AUX	_	_	4	aux	_	_
+
+1	Дениз	_	PROPN	_	_	3	nsubj	_	_
+2	үйдө	_	NOUN	_	_	3	obl	_	_
+3	жатты	_	VERB	_	_	0	root	_	_
+
+1	Мен	_	PRON	_	_	2	nsubj	_	_
+2	бармак	_	VERB	_	_	0	root	_	_
+3	эмесмин	_	AUX	_	_	2	aux	_	_
+
+1	Мен	Мен	_	PRON	_	2	nsubj	_	_
+2	доктор	доктор	_	NOUN	_	0	root	_	_
+3-4	эмесмин	_	_	_	_	_	_	_	_
+3	эмес	эмес	_	ADV	_	2	advmod	_	_
+4	мин	мин	_	AUX	_	2	cop	_	_
+
+1	Мен	_	PRON	_	_	2	nsubj	_	_
+2	бармак	_	VERB	_	_	0	root	_	_
+3-4	эмесмин	_	_	_	_	_	_	_	_
+3	эмес	_	ADV	_	_	2	advmod	_	_
+4	мин	_	AUX	_	_	2	aux	_	_
+
+1	Мен	_	PRON	_	_	2	nsubj	_	_
+2	бармак	_	VERB	_	_	0	root	_	_
+3	эмес	_	ADV	_	_	2	advmod	_	_
+4	элем	_	AUX	_	_	2	aux	_	_
+
+1	Sen	_	PRON	_	_	2	nsubj	_	_
+2-3	gitmişsin	_	_	_	_	_	_	_	_
+2	gitmiş	_	VERB	_	_	0	root	_	_
+3	sin	_	AUX	_	_	2	aux	_	_
+
+1	Sen	_	PRON	_	_	2	nsubj	_	_
+2-3	gitmiştin	_	_	_	_	_	_	_	_
+2	gitmiş	_	VERB	_	_	0	root	_	_
+3	tin	_	AUX	_	_	2	aux	_	_
+
+1	Sen	_	PRON	_	_	2	nsubj	_	_
+2	gitmiş	_	VERB	_	_	0	root	_	_
+3	idin	_	AUX	_	_	2	aux	_	_
+
+1	Ал	_	PRON	_	_	2	nsubj	_	_
+2	бармак	_	VERB	_	_	0	root	_	_
+
+1	Sen	_	PRON	_	_	2	nsubj	_	_
+2	gitmiş	_	VERB	_	_	0	root	_	_
+3-4	oldurdun	_	_	_	_	_	_	_	_
+3	oldur	_	AUX	_	_	2	aux	_	_
+4	dun	_	_	AUX	_	2	aux	_	_
